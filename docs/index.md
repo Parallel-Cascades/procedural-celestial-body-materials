@@ -25,9 +25,6 @@ This asset contains a set of procedural materials and scripts you can use to gen
     - icosphere_high - high-poly sphere for rendering smooth stars and gas giants. High triangle and vertex count allow for smoother looking dynamic procedural visuals.
     - double_sided_plane - double-sided plane mesh allow for Asteroid Rings to be viewed from both sides.
 
-## Installation
-The assets for the 3D gas giants and stars are stored in a separate folder, as they are currently being distributed as a free asset on the asset store. They are included in the paid Procedural Space Skybox Asset, and do not require a separate download.
-
 ## Samples
 There are two sample scenes in this asset:
 
